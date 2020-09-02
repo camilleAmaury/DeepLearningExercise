@@ -56,15 +56,19 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 
 #### Models seen by Websites
 
-|    Website                 |      Models         |
+|    Exercice                 |      Models         |
 | -------------------------- | :----------------:  |
 | Fashion MNIST       | Single Layer NN, Multi-Layer NN, Convolutional NN |
+| ANN - Banking       | Artificial Neural Network |
 
 
 #### List of concepts seen
 
-* Neural Network, Hidden Layers, Convolutional NN
+* Artifical Neural Network, Convolutional
 * Back propragation, Gradient descent, activating function (reLU, Softmax, TanH, Sigmoïd)
+* optimize a ANN, using sklearn/keras pairing K-fold cross-validation and Grid/RandomSearchCV (for hyperparameter and neurons number optimization)
+* Dropout
+* Dilema between Bias and Variance
 * Supervised Learning
 * Classification
 * Hyperparameter
