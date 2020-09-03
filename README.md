@@ -54,20 +54,27 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 
 ## Websites-exercises
 
-#### Models seen by Websites
+#### Models Tutorial
 
 |    Exercice                 |      Models         |
 | -------------------------- | :----------------:  |
 | Fashion MNIST       | Single Layer NN, Multi-Layer NN, Convolutional NN |
 | ANN - Banking       | Artificial Neural Network |
+| CNN - Cat or Dog       | Convolutional Neural Network |
+
+#### Models competition
+
+|    Exercice                 |      Models         |
+| -------------------------- | :----------------:  |
+| CNN - Cat or Dog       | (still in developpement) |
 
 
 #### List of concepts seen
 
 * Artifical Neural Network, Convolutional
-* Back propragation, Gradient descent, activating function (reLU, Softmax, TanH, Sigmoïd)
+* Back propragation, Gradient descent, activation-loss function (reLU, Softmax-categorical_crossentropy, TanH, Sigmoïd-binary_crossentropy)
 * optimize a ANN, using sklearn/keras pairing K-fold cross-validation and Grid/RandomSearchCV (for hyperparameter and neurons number optimization)
-* Dropout
+* Dropout, Flatten, MaxPooling
 * Dilema between Bias and Variance
 * Supervised Learning
 * Classification
