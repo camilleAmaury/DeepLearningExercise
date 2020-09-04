@@ -66,7 +66,7 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 
 |    Exercice                 |      Models         |
 | -------------------------- | :----------------:  |
-| CNN - Cat or Dog       | model1 : 0.88 accuracy (silver medal) |
+| CNN - Cat or Dog       | model1 : 0.9017 accuracy (Gold medal) |
 
 
 #### List of concepts seen

@@ -1,1 +1,1 @@
-{"_epochDone": 2, "_currentAccuracy": [0.5514112710952759], "_batch_size": 32, "_training_size": 8000, "_test_size": 2000, "_image_size": [150, 150], "_name": "model2"}
+{"_epochDone": 89, "_currentAccuracy": [0.9017137289047241], "_batch_size": 32, "_training_size": 8000, "_test_size": 2000, "_image_size": [150, 150], "_name": "model2"}
