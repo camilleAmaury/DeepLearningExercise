@@ -12,12 +12,12 @@
   <a href="#reproductibility">Reproductibility</a> •
   <a href="#websites-exercises">Websites Exercises</a> •
   <a href="#author">Author</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
 </p>
 
 ---
 
-[![Plots][product-screenshot]]()
+[![Plots][screen]]()
 
 ## About
 
@@ -66,7 +66,7 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 
 |    Exercice                 |      Models         |
 | -------------------------- | :----------------:  |
-| CNN - Cat or Dog       | (still in developpement) |
+| CNN - Cat or Dog       | model1 : 0.88 accuracy (silver medal) |
 
 
 #### List of concepts seen
@@ -97,4 +97,4 @@ You should still mention me if you want to use it in the public sphere.
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url-1]: https://www.linkedin.com/in/camille-amaury-juge/
-[product-screenshot]: images/mnist.PNG
+[screen]: images/mnist.png
