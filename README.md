@@ -61,6 +61,8 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 | Fashion MNIST       | Single Layer NN, Multi-Layer NN, Convolutional NN |
 | ANN - Banking       | Artificial Neural Network |
 | CNN - Cat or Dog       | Convolutional Neural Network |
+| RNN, LTSM, GRU - Stock Prediction       | Recurrent Neural Network |
+| SOM - Fraud Detection       | Self Organizing Maps |
 
 #### Models competition
 
@@ -71,7 +73,8 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 
 #### List of concepts seen
 
-* Artifical Neural Network, Convolutional
+* Supervised : Artifical Neural Network, Convolutional, Recurrent
+* Unsupervised : Self Organizing Maps
 * Back propragation, Gradient descent, activation-loss function (reLU, Softmax-categorical_crossentropy, TanH, Sigmoïd-binary_crossentropy)
 * optimize a ANN, using sklearn/keras pairing K-fold cross-validation and Grid/RandomSearchCV (for hyperparameter and neurons number optimization)
 * Dropout, Flatten, MaxPooling
