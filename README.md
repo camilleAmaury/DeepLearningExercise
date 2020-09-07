@@ -51,6 +51,7 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 * [Numpy](https://numpy.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [TensorFlow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/)
 
 ## Websites-exercises
 
@@ -63,6 +64,8 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 | CNN - Cat or Dog       | Convolutional Neural Network |
 | RNN, LTSM, GRU - Stock Prediction       | Recurrent Neural Network |
 | SOM - Fraud Detection       | Self Organizing Maps |
+| RBM - Film Liking Prediction       | Restricted Boltzmann's Machine |
+| SAE - Film Liking Prediction       | Sparse Auto Encoder |
 
 #### Models competition
 
@@ -74,7 +77,7 @@ git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 #### List of concepts seen
 
 * Supervised : Artifical Neural Network, Convolutional, Recurrent
-* Unsupervised : Self Organizing Maps
+* Unsupervised : Self Organizing Maps, Restricted Boltzmann's Machine, Sparse Auto Encoder
 * Back propragation, Gradient descent, activation-loss function (reLU, Softmax-categorical_crossentropy, TanH, Sigmoïd-binary_crossentropy)
 * optimize a ANN, using sklearn/keras pairing K-fold cross-validation and Grid/RandomSearchCV (for hyperparameter and neurons number optimization)
 * Dropout, Flatten, MaxPooling
